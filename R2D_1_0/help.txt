@@ -1,0 +1,11 @@
+select file 	browse into folder and select a picture 
+clear 		clear the dash
+export		file are exported into the folder ./exported_DXFs
+gray +/- 	select max grayscale value to include in the exported dxf
+fill +/-	select ho many lines for the dxf
+quit		quit the software
+help		open this file
+
+
+for any kind of information:
+mmancini@phoenixcontact.com
